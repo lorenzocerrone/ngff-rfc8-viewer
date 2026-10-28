@@ -16,6 +16,7 @@
 .ngff-rfc8-viewer-homepage {
   padding: 20px;
   width: fit-content;
+  max-width: 900px;
   margin: 0 auto;
 }
 .ngff-rfc8-viewer-homepage h1 {
@@ -26,6 +27,14 @@
   padding: 10px;
   border-radius: 5px;
   border: solid grey 1px;
+}
+.ngff-rfc8-viewer-homepage h2 {
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+.ngff-rfc8-viewer-homepage-section-description {
+  margin-top: 0;
+  color: #555;
 }
 
 .ngff-rfc8-viewer-graph-container {
