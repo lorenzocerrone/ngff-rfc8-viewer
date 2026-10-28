@@ -16,7 +16,7 @@ or one example at a time (`uv run example1`, ...). To build against a local ngio
 uv run --with-editable ../../ngio-collections examples-all
 ```
 
-Explore the examples at https://fractal-analytics-platform.github.io/ngff-rfc8-viewer/ (the homepage
+Explore the examples at https://lorenzocerrone.github.io/ngff-rfc8-viewer/ (the homepage
 links every example), or locally with `npm run dev` from the repository root and
 `?source=http://localhost:5173/examples/data/example1/zarr.json`.
 

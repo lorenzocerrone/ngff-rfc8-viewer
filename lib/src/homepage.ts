@@ -1,7 +1,7 @@
 import { CSS_CLASS_PREFIX } from './constants';
 
 const EXAMPLES_BASE =
-  'https://raw.githubusercontent.com/fractal-analytics-platform/ngff-rfc8-viewer/main/examples/data';
+  'https://raw.githubusercontent.com/lorenzocerrone/ngff-rfc8-viewer/main/examples/data';
 
 const exampleSources = [
   [

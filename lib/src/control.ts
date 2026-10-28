@@ -121,7 +121,7 @@ export default class NGFFControlPanel {
 
     // GitHub link
     const githubLink = document.createElement('a');
-    githubLink.href = 'https://github.com/fractal-analytics-platform/ngff-rfc8-viewer';
+    githubLink.href = 'https://github.com/lorenzocerrone/ngff-rfc8-viewer';
     githubLink.target = '_blank';
     githubLink.classList.add(`${CSS_CLASS_PREFIX}github`, `${CSS_CLASS_PREFIX}bi`);
     element.appendChild(githubLink);

@@ -12,7 +12,7 @@
         "path": {
           "type": "zarr",
           "format": "http",
-          "href": "https://raw.githubusercontent.com/fractal-analytics-platform/ngff-rfc8-viewer/main/examples/data/example1"
+          "href": "https://raw.githubusercontent.com/lorenzocerrone/ngff-rfc8-viewer/main/examples/data/example1"
         }
       },
       {
@@ -22,7 +22,7 @@
         "path": {
           "type": "zarr",
           "format": "http",
-          "href": "https://raw.githubusercontent.com/fractal-analytics-platform/ngff-rfc8-viewer/main/examples/data/example2"
+          "href": "https://raw.githubusercontent.com/lorenzocerrone/ngff-rfc8-viewer/main/examples/data/example2"
         }
       },
       {
@@ -32,7 +32,7 @@
         "path": {
           "type": "zarr",
           "format": "http",
-          "href": "https://raw.githubusercontent.com/fractal-analytics-platform/ngff-rfc8-viewer/main/examples/data/example4"
+          "href": "https://raw.githubusercontent.com/lorenzocerrone/ngff-rfc8-viewer/main/examples/data/example4"
         }
       }
     ]
