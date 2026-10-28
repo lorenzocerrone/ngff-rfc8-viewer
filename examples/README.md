@@ -17,7 +17,8 @@ uv run --with-editable ../../ngio-collections examples-all
 ```
 
 Explore the examples at https://lorenzocerrone.github.io/ngff-rfc8-viewer/ (the homepage
-links every example), or locally with `npm run dev` from the repository root and
+links every example, plus the metadata-only examples from the ngio-collections
+`rfc8-revision1` branch in a separate section), or locally with `npm run dev` from the repository root and
 `?source=http://localhost:5173/examples/data/example1/zarr.json`.
 
 ## Example 1: scene and labels
